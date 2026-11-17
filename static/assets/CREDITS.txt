@@ -1,0 +1,1 @@
+terrain_detail.jpg: 'aerial_grass_rock' diffuse map, 1k, from Poly Haven (https://polyhaven.com/a/aerial_grass_rock), licence CC0.
